@@ -3,6 +3,9 @@ import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 from matplotlib.animation import FuncAnimation
 
+#campo_magnetico_rotante
+# ondas_trifasicas sinusoidales
+
 # Configuración
 f = 50  # Frecuencia (Hz)
 Vmax = 100  # Voltaje máximo (V)

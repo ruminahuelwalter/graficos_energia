@@ -2,6 +2,10 @@ import numpy as np
 print(np.__version__)  # Debería mostrar 2.2.5
 import matplotlib.pyplot as plt
 
+# campo_magnetico_rotante
+# cambio_de_giro
+
+
 # Parámetros
 f = 50  # Frecuencia (Hz)
 Vmax = 100  # Voltaje máximo (V)
